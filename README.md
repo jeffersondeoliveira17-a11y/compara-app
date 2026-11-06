@@ -6,7 +6,7 @@ App para conferir o preço pago no caixa e acompanhar o histórico de preços da
 | --- | --- |
 | `app/` | Aplicativo (Expo + React Native + TypeScript), com o design do protótipo do MVP |
 | `supabase/` | Esquema do banco (PostgreSQL) e seed com as notas já registradas |
-| `site/` | Landing page |
+| `index.html` | Landing page (publicada pelo GitHub Pages a partir da raiz) |
 
 ## Rodar o app
 
