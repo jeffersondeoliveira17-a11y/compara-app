@@ -1,0 +1,3686 @@
+{
+ "lojas": [
+  {
+   "id": "assai-barueri-0337",
+   "cnpj": "06.057.223/0566-30",
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "endereco": "Av. Mario Sadanori Doi, 479 – Jardim dos Camargos, Barueri/SP",
+   "nome": "Assaí Atacadista",
+   "razaoSocial": "Sendas Distribuidora S/A",
+   "unidade": "Barueri (loja 0337)"
+  },
+  {
+   "id": "giga-alphaville",
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "endereco": "Araguaia, 2079 – Alphaville Industrial, Barueri/SP",
+   "nome": "Giga Atacado",
+   "unidade": "Alphaville (loja 0902)"
+  }
+ ],
+ "compras": [
+  {
+   "id": "nfce-27931-s31",
+   "chave": "35261109182947002936653120000279311312064297",
+   "coo": "064291",
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "data": "2026-11-04T19:15:02-03:00",
+   "desconto": 0.5,
+   "itens": [
+    {
+     "desconto": 0,
+     "descricao": "KIWI IMPORTADO BAND 60",
+     "item": "001",
+     "precoUnit": 15.9,
+     "produtoId": "7908620701174",
+     "qtd": 1,
+     "total": 15.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "TOMATE ITALIANO KG",
+     "item": "002",
+     "precoUnit": 15.9,
+     "produtoId": "giga-4090",
+     "qtd": 0.465,
+     "total": 7.39,
+     "unidade": "KG"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CEBOLA NACIONAL KG",
+     "item": "003",
+     "precoUnit": 6.99,
+     "produtoId": "giga-4597",
+     "qtd": 0.59,
+     "total": 4.12,
+     "unidade": "KG"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ABOBRINHA ITALIANA KG",
+     "item": "004",
+     "precoUnit": 3.99,
+     "produtoId": "giga-4725",
+     "qtd": 0.73,
+     "total": 2.91,
+     "unidade": "KG"
+    },
+    {
+     "desconto": 0,
+     "descricao": "COXASA SWIFT TEMP 1KG",
+     "item": "005",
+     "precoUnit": 21.35,
+     "produtoId": "7894904209026",
+     "qtd": 1,
+     "total": 21.35,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BATATA PSWIFT CONG 400",
+     "item": "006",
+     "precoUnit": 11.89,
+     "produtoId": "7898542028605",
+     "qtd": 1,
+     "total": 11.89,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC ROSQUINHA MILHO50",
+     "item": "007",
+     "precoUnit": 11.5,
+     "produtoId": "7891203050663",
+     "qtd": 1,
+     "total": 11.5,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "FILEZINHO EMPANADO 400",
+     "item": "008",
+     "precoUnit": 17.25,
+     "produtoId": "7894904285570",
+     "qtd": 1,
+     "total": 17.25,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "FILE MIGNON SUI SWIFT",
+     "item": "009",
+     "precoUnit": 70.39,
+     "produtoId": "7899567222924",
+     "qtd": 1,
+     "total": 70.39,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ACHOC PO TODDY SCH 1,8",
+     "item": "010",
+     "precoUnit": 38.75,
+     "produtoId": "7892840819187",
+     "qtd": 1,
+     "total": 38.75,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "FGO EMP SADIA 400G UN",
+     "item": "011",
+     "precoUnit": 20.19,
+     "produtoId": "7891515572518",
+     "qtd": 1,
+     "total": 20.19,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "C. MOIDA SWIFT BOL 500",
+     "item": "012",
+     "precoUnit": 35.25,
+     "produtoId": "7899567222931",
+     "qtd": 1,
+     "total": 35.25,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC CRIST VITARELA 41",
+     "item": "013",
+     "precoUnit": 9.45,
+     "produtoId": "7896213005771",
+     "qtd": 1,
+     "total": 9.45,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC WAFER BONO 110G U",
+     "item": "014",
+     "precoUnit": 4.7,
+     "produtoId": "7891000372586",
+     "qtd": 1,
+     "total": 4.7,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC WAFER BONO 110G U",
+     "item": "015",
+     "precoUnit": 4.7,
+     "produtoId": "7891000373262",
+     "qtd": 1,
+     "total": 4.7,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "QJO MUSS IPAN FAT 400G",
+     "item": "016",
+     "precoUnit": 23.9,
+     "produtoId": "7896114100902",
+     "qtd": 1,
+     "total": 23.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "POLPET SEARA GOUR 320G",
+     "item": "017",
+     "precoUnit": 29.69,
+     "produtoId": "7894904000739",
+     "qtd": 1,
+     "total": 29.69,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PAO FORMA PULLMAN 500G",
+     "item": "018",
+     "precoUnit": 13.49,
+     "produtoId": "7896002303460",
+     "qtd": 1,
+     "total": 13.49,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "LEITE EM PO INSTAN 400",
+     "item": "019",
+     "precoUnit": 14.99,
+     "produtoId": "7891164027681",
+     "qtd": 1,
+     "total": 14.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "OVO BRANCO GRANDE C/20",
+     "item": "020",
+     "precoUnit": 11.9,
+     "produtoId": "7896676099911",
+     "qtd": 1,
+     "total": 11.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MOL PIM CEPERA VER 150",
+     "item": "021",
+     "precoUnit": 4.4,
+     "produtoId": "7896025800052",
+     "qtd": 1,
+     "total": 4.4,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MILHO VERDE QUERO 170G",
+     "item": "022",
+     "precoUnit": 3.95,
+     "produtoId": "7896102500608",
+     "qtd": 2,
+     "total": 7.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CREME DE RICOTA PRESID",
+     "item": "023",
+     "precoUnit": 8.5,
+     "produtoId": "7891097000935",
+     "qtd": 1,
+     "total": 8.5,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0.5,
+     "descricao": "CAPPUCCINO 3 CORACOES",
+     "item": "024",
+     "precoUnit": 2.29,
+     "produtoId": "7896005802373",
+     "qtd": 5,
+     "total": 10.95,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PAO DE MEL PANCO 200G",
+     "item": "025",
+     "precoUnit": 12.9,
+     "produtoId": "7891203020260",
+     "qtd": 1,
+     "total": 12.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "LEITE L V ITALAC TAMP",
+     "item": "026",
+     "precoUnit": 5.6,
+     "produtoId": "7898080640611",
+     "qtd": 5,
+     "total": 28,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MEXERICA CLEMENVILLE 7",
+     "item": "027",
+     "precoUnit": 15.9,
+     "produtoId": "7908620701181",
+     "qtd": 1,
+     "total": 15.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MOLHO TOMATE POMAROLA",
+     "item": "028",
+     "precoUnit": 2.59,
+     "produtoId": "7896036001684",
+     "qtd": 2,
+     "total": 5.18,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PL ALUMINIO WYDA 30X4,0",
+     "item": "029",
+     "precoUnit": 4.19,
+     "produtoId": "7898930672434",
+     "qtd": 1,
+     "total": 4.19,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC RECH TORTI CROS 8",
+     "item": "030",
+     "precoUnit": 4.25,
+     "produtoId": "7896085087165",
+     "qtd": 1,
+     "total": 4.25,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC RECH TORTI CROS 8",
+     "item": "031",
+     "precoUnit": 4.25,
+     "produtoId": "7896085087172",
+     "qtd": 1,
+     "total": 4.25,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC AMANT BAUDUCCO 35",
+     "item": "032",
+     "precoUnit": 6.09,
+     "produtoId": "7891962076348",
+     "qtd": 1,
+     "total": 6.09,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CHOC LACTA 145G UN",
+     "item": "033",
+     "precoUnit": 15.99,
+     "produtoId": "7622210534866",
+     "qtd": 2,
+     "total": 31.98,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CHOC RECH LACTA OREO 9",
+     "item": "034",
+     "precoUnit": 14.85,
+     "produtoId": "7622210567567",
+     "qtd": 1,
+     "total": 14.85,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CHIMICHURRI T.RICCA 40",
+     "item": "035",
+     "precoUnit": 10.1,
+     "produtoId": "7897557599957",
+     "qtd": 1,
+     "total": 10.1,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "TEMP BAIANO T.RICA 50G",
+     "item": "036",
+     "precoUnit": 7.39,
+     "produtoId": "7897557550255",
+     "qtd": 1,
+     "total": 7.39,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC RECH TORTINHAS 14",
+     "item": "037",
+     "precoUnit": 4.39,
+     "produtoId": "7896085086632",
+     "qtd": 2,
+     "total": 8.78,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MAIONESE HELLMANNS UN",
+     "item": "038",
+     "precoUnit": 9.9,
+     "produtoId": "7891150090835",
+     "qtd": 1,
+     "total": 9.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SNACK CLUB SOCIAL 115G",
+     "item": "039",
+     "precoUnit": 10.7,
+     "produtoId": "7622210533289",
+     "qtd": 1,
+     "total": 10.7,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "LTE FERM ACTIVIA ZER 1",
+     "item": "040",
+     "precoUnit": 20.45,
+     "produtoId": "7891025116592",
+     "qtd": 1,
+     "total": 20.45,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "LAVA ROUPA OMO UN",
+     "item": "041",
+     "precoUnit": 14.6,
+     "produtoId": "7891150064928",
+     "qtd": 1,
+     "total": 14.6,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "COXINHA FGO ASS",
+     "item": "042",
+     "precoUnit": 63.9,
+     "produtoId": "giga-107095",
+     "qtd": 0.132,
+     "total": 8.43,
+     "unidade": "KG"
+    },
+    {
+     "desconto": 0,
+     "descricao": "COXINHA AIPIM C/CARN A",
+     "item": "043",
+     "precoUnit": 63.9,
+     "produtoId": "giga-107094",
+     "qtd": 0.138,
+     "total": 8.81,
+     "unidade": "KG"
+    },
+    {
+     "desconto": 0,
+     "descricao": "VH NAC TTO TRADICAO 1L",
+     "item": "044",
+     "precoUnit": 26.9,
+     "produtoId": "7896266100362",
+     "qtd": 1,
+     "total": 26.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "FAROFA MAND TEMP YOKI",
+     "item": "045",
+     "precoUnit": 6.95,
+     "produtoId": "7891095911486",
+     "qtd": 2,
+     "total": 13.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ESPONJA SCOTCH BRIT L3",
+     "item": "046",
+     "precoUnit": 8.79,
+     "produtoId": "7891040133017",
+     "qtd": 1,
+     "total": 8.79,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "AMAC CONC YPE LOCCITAN",
+     "item": "047",
+     "precoUnit": 22.85,
+     "produtoId": "7896098903582",
+     "qtd": 1,
+     "total": 22.85,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MIST BOLO DONA BENTA 4",
+     "item": "048",
+     "precoUnit": 12.09,
+     "produtoId": "7896005213995",
+     "qtd": 1,
+     "total": 12.09,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CAFE SOLUVEL PILAO 40G",
+     "item": "049",
+     "precoUnit": 6.9,
+     "produtoId": "7896089088656",
+     "qtd": 2,
+     "total": 13.8,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MANT SCALA PT 200G UN",
+     "item": "050",
+     "precoUnit": 12.05,
+     "produtoId": "7898039680286",
+     "qtd": 1,
+     "total": 12.05,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "DOCE AMENDOIM CASEIRA4",
+     "item": "051",
+     "precoUnit": 14.5,
+     "produtoId": "7897928200833",
+     "qtd": 1,
+     "total": 14.5,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SUCO SERIGY MARAC 500M",
+     "item": "052",
+     "precoUnit": 8.39,
+     "produtoId": "7898406780052",
+     "qtd": 1,
+     "total": 8.39,
+     "unidade": "UN"
+    }
+   ],
+   "lojaId": "giga-alphaville",
+   "nfce": "27931",
+   "observacao": "Soma dos itens transcritos (R$ 761,98) fica R$ 2,00 abaixo do total impresso; um valor pode ter sido lido com dígito errado.",
+   "operador": "320824",
+   "pagamentos": [
+    {
+     "forma": "Cartão Crédito TEF Rotativo",
+     "valor": 83.48
+    },
+    {
+     "forma": "Outros",
+     "valor": 680
+    }
+   ],
+   "pdv": "312",
+   "serie": "31",
+   "totalItens": 66,
+   "tributos": {
+    "estadual": 68.46,
+    "federal": 60,
+    "municipal": 0
+   },
+   "valorPago": 763.48,
+   "valorTotal": 763.98
+  },
+  {
+   "id": "nfce-51750-s11",
+   "chave": "35261006057223056630650110000517501111147657",
+   "coo": "114765",
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "data": "2026-10-14T19:45:55-03:00",
+   "desconto": 5.31,
+   "itens": [
+    {
+     "desconto": 0,
+     "descricao": "TOR ADRIA 284G INT",
+     "item": "001",
+     "precoUnit": 8.65,
+     "produtoId": "7896085075971",
+     "qtd": 1,
+     "total": 8.65,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PAO PANCO MILH CA",
+     "item": "002",
+     "precoUnit": 11.35,
+     "produtoId": "7891203010209",
+     "qtd": 1,
+     "total": 11.35,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PAO NOBRE INT 500G",
+     "item": "003",
+     "precoUnit": 8.99,
+     "produtoId": "7897972003954",
+     "qtd": 2,
+     "total": 17.98,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "AZ GALLO E V 500ML",
+     "item": "004",
+     "precoUnit": 26.9,
+     "produtoId": "5601252231164",
+     "qtd": 1,
+     "total": 26.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MAC MATTEO 500G SPAG",
+     "item": "005",
+     "precoUnit": 7.75,
+     "produtoId": "7897990112607",
+     "qtd": 2,
+     "total": 15.5,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "P ALUM PRATSY 30X4MT",
+     "item": "006",
+     "precoUnit": 3.09,
+     "produtoId": "7896300500868",
+     "qtd": 1,
+     "total": 3.09,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CAFE 3 COR SACHE 40G",
+     "item": "007",
+     "precoUnit": 5.99,
+     "produtoId": "7896045103003",
+     "qtd": 3,
+     "total": 17.97,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "LTE INT ITALAC 1L CT",
+     "item": "008",
+     "precoUnit": 5.59,
+     "produtoId": "7898080640611",
+     "qtd": 4,
+     "total": 22.36,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "V PERGOLA TTO 1LT SV",
+     "item": "009",
+     "precoUnit": 29.9,
+     "produtoId": "7896855901417",
+     "qtd": 1,
+     "total": 29.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "OL CAN SOYA P 900",
+     "item": "010",
+     "precoUnit": 12.35,
+     "produtoId": "7891080150449",
+     "qtd": 1,
+     "total": 12.35,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MOL SAKURA 500ML LI",
+     "item": "011",
+     "precoUnit": 13.19,
+     "produtoId": "7896007800124",
+     "qtd": 1,
+     "total": 13.19,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC POLV CASSI 200G",
+     "item": "012",
+     "precoUnit": 9.19,
+     "produtoId": "7898416780042",
+     "qtd": 1,
+     "total": 9.19,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CHOC LACTA 145G AO L",
+     "item": "013",
+     "precoUnit": 17.4,
+     "produtoId": "7622210534835",
+     "qtd": 1,
+     "total": 17.4,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CHOC LACTA 145G SHOT",
+     "item": "014",
+     "precoUnit": 17.4,
+     "produtoId": "7622210534866",
+     "qtd": 1,
+     "total": 17.4,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CAFE LOR SOLUVEL 40G",
+     "item": "015",
+     "precoUnit": 7.99,
+     "produtoId": "7896089089905",
+     "qtd": 1,
+     "total": 7.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CREPE PAD 150G CHOC",
+     "item": "016",
+     "precoUnit": 12.99,
+     "produtoId": "7899985000333",
+     "qtd": 1,
+     "total": 12.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "DET LIMPOL 500ML CRI",
+     "item": "017",
+     "precoUnit": 2.59,
+     "produtoId": "7891022100372",
+     "qtd": 3,
+     "total": 7.77,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0.78,
+     "descricao": "M TOM POMODORO 300G",
+     "item": "018",
+     "precoUnit": 1.65,
+     "produtoId": "7896036090981",
+     "qtd": 3,
+     "total": 4.17,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MAC BARIL PARAF 500G",
+     "item": "019",
+     "precoUnit": 4.19,
+     "produtoId": "7898951850118",
+     "qtd": 1,
+     "total": 4.19,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ARROZ SOLITO 1kg",
+     "item": "020",
+     "precoUnit": 4.39,
+     "produtoId": "7896062699978",
+     "qtd": 2,
+     "total": 8.78,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CRAVO KITANO 40G",
+     "item": "021",
+     "precoUnit": 16.99,
+     "produtoId": "7891095154081",
+     "qtd": 1,
+     "total": 16.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "M PIP YOK PREMI 400G",
+     "item": "022",
+     "precoUnit": 5.99,
+     "produtoId": "7891095911349",
+     "qtd": 1,
+     "total": 5.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BOLO CANECA 70G CHOC",
+     "item": "023",
+     "precoUnit": 4.19,
+     "produtoId": "7891048070215",
+     "qtd": 2,
+     "total": 8.38,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BROWNIE 480G",
+     "item": "024",
+     "precoUnit": 14.25,
+     "produtoId": "7891048067000",
+     "qtd": 1,
+     "total": 14.25,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ADOCYL 80ML STEVIA",
+     "item": "025",
+     "precoUnit": 7.59,
+     "produtoId": "7896094906020",
+     "qtd": 1,
+     "total": 7.59,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BIS BAUD 335G LEI/GO",
+     "item": "026",
+     "precoUnit": 9.1,
+     "produtoId": "7891962068046",
+     "qtd": 1,
+     "total": 9.1,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "HALLS 84G MOR",
+     "item": "027",
+     "precoUnit": 6.85,
+     "produtoId": "7622210956118",
+     "qtd": 1,
+     "total": 6.85,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ARR URB INT PARB 1kg",
+     "item": "028",
+     "precoUnit": 4.89,
+     "produtoId": "7896038308057",
+     "qtd": 1,
+     "total": 4.89,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "QJ MUSS CENAGGIO FT",
+     "item": "029",
+     "precoUnit": 49.5,
+     "produtoId": "assai-7590",
+     "qtd": 0.332,
+     "total": 16.43,
+     "unidade": "KG"
+    },
+    {
+     "desconto": 0,
+     "descricao": "COB CH PINGO 1,01kg",
+     "item": "030",
+     "precoUnit": 36.9,
+     "produtoId": "7896072644418",
+     "qtd": 1,
+     "total": 36.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "D AMEN GIBI FF 1,5kg",
+     "item": "031",
+     "precoUnit": 32.5,
+     "produtoId": "7896336000226",
+     "qtd": 1,
+     "total": 32.5,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC TOST 150G ESPEC",
+     "item": "032",
+     "precoUnit": 5.09,
+     "produtoId": "7891000397961",
+     "qtd": 1,
+     "total": 5.09,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "FEIJ C BELO BCO 500G",
+     "item": "033",
+     "precoUnit": 9.29,
+     "produtoId": "7896064100168",
+     "qtd": 1,
+     "total": 9.29,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "FEIJ MAXIMO CAR 1kg",
+     "item": "034",
+     "precoUnit": 7.95,
+     "produtoId": "7896401100042",
+     "qtd": 1,
+     "total": 7.95,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SUCO AURO TP 1,5L UV",
+     "item": "035",
+     "precoUnit": 18.59,
+     "produtoId": "7891141036170",
+     "qtd": 1,
+     "total": 18.59,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0.9,
+     "descricao": "CR LEITE PIRAC 200G",
+     "item": "036",
+     "precoUnit": 2.99,
+     "produtoId": "7898215151784",
+     "qtd": 3,
+     "total": 8.07,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0.63,
+     "descricao": "MILHO STELLA LA 170G",
+     "item": "037",
+     "precoUnit": 3.2,
+     "produtoId": "7898902299058",
+     "qtd": 3,
+     "total": 8.97,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "L PIRAC 400G INT INS",
+     "item": "038",
+     "precoUnit": 15.79,
+     "produtoId": "7898215152439",
+     "qtd": 1,
+     "total": 15.79,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PARM RAL IPANEN 500G",
+     "item": "039",
+     "precoUnit": 45.9,
+     "produtoId": "7896114101084",
+     "qtd": 1,
+     "total": 45.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC TRAK 126G CH/BR",
+     "item": "040",
+     "precoUnit": 3.39,
+     "produtoId": "7622210592668",
+     "qtd": 2,
+     "total": 6.78,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BISC TRAK 126G CH/MO",
+     "item": "041",
+     "precoUnit": 3.39,
+     "produtoId": "7622210592637",
+     "qtd": 2,
+     "total": 6.78,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PASSATEMPO 90G ALPIN",
+     "item": "042",
+     "precoUnit": 3.09,
+     "produtoId": "7891000469545",
+     "qtd": 1,
+     "total": 3.09,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ABS ALWAYS C/A C/26",
+     "item": "043",
+     "precoUnit": 29.39,
+     "produtoId": "7500435214650",
+     "qtd": 1,
+     "total": 29.39,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "AG CRYS CG 500 LIMAO",
+     "item": "044",
+     "precoUnit": 3.19,
+     "produtoId": "7894900520507",
+     "qtd": 2,
+     "total": 6.38,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "DET YPE 500ML LIMAO",
+     "item": "045",
+     "precoUnit": 2.19,
+     "produtoId": "7896098900222",
+     "qtd": 1,
+     "total": 2.19,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "MAGUARY 500ML CAJU",
+     "item": "046",
+     "precoUnit": 5.05,
+     "produtoId": "7896000554369",
+     "qtd": 1,
+     "total": 5.05,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BEB H2OH 500ML LIMON",
+     "item": "047",
+     "precoUnit": 3.99,
+     "produtoId": "7892840812850",
+     "qtd": 3,
+     "total": 11.97,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "COT JOHNSON C/150",
+     "item": "048",
+     "precoUnit": 13.89,
+     "produtoId": "7891010560812",
+     "qtd": 1,
+     "total": 13.89,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 3,
+     "descricao": "CR D SENSO 140G PROT",
+     "item": "049",
+     "precoUnit": 16.9,
+     "produtoId": "7896094909978",
+     "qtd": 3,
+     "total": 47.7,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SBT LUX 200ML BUQUE",
+     "item": "050",
+     "precoUnit": 8.09,
+     "produtoId": "7891150060241",
+     "qtd": 1,
+     "total": 8.09,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BANANA PRATA kg",
+     "item": "051",
+     "precoUnit": 3.95,
+     "produtoId": "assai-577",
+     "qtd": 0.99,
+     "total": 3.91,
+     "unidade": "KG"
+    },
+    {
+     "desconto": 0,
+     "descricao": "ISCAS FGO AURO 600G",
+     "item": "052",
+     "precoUnit": 21.59,
+     "produtoId": "7891164110853",
+     "qtd": 1,
+     "total": 21.59,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "CHEESE DAN 300G TRAD",
+     "item": "053",
+     "precoUnit": 21.59,
+     "produtoId": "7896068000600",
+     "qtd": 1,
+     "total": 21.59,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SBT PHEBO 90G T LAV",
+     "item": "054",
+     "precoUnit": 4.99,
+     "produtoId": "7896512909794",
+     "qtd": 1,
+     "total": 4.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SBT PHEBO 90G ROSAS",
+     "item": "055",
+     "precoUnit": 4.99,
+     "produtoId": "7896512909787",
+     "qtd": 1,
+     "total": 4.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SBT PHEBO 90G FRESC",
+     "item": "056",
+     "precoUnit": 4.99,
+     "produtoId": "7896512909763",
+     "qtd": 1,
+     "total": 4.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SBT PHEBO 90G AMAZON",
+     "item": "057",
+     "precoUnit": 4.99,
+     "produtoId": "7896512909732",
+     "qtd": 1,
+     "total": 4.99,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SASSAMI SADIA 1kg",
+     "item": "058",
+     "precoUnit": 18.79,
+     "produtoId": "7893000516083",
+     "qtd": 1,
+     "total": 18.79,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "BIS MINASBOM 220G CH",
+     "item": "059",
+     "precoUnit": 11.9,
+     "produtoId": "7898206275093",
+     "qtd": 1,
+     "total": 11.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "SAND IPAN A PT039/40",
+     "item": "060",
+     "precoUnit": 14.9,
+     "produtoId": "7891261849001",
+     "qtd": 1,
+     "total": 14.9,
+     "unidade": "UN"
+    },
+    {
+     "desconto": 0,
+     "descricao": "PH PERS V L16P15 30M",
+     "item": "061",
+     "precoUnit": 27.79,
+     "produtoId": "7896110004648",
+     "qtd": 1,
+     "total": 27.79,
+     "unidade": "UN"
+    }
+   ],
+   "lojaId": "assai-barueri-0337",
+   "nfce": "51750",
+   "observacao": "Soma dos itens confere com o total impresso (R$ 835,69). Tributo federal: último dígito ilegível na nota (R$ 89,3_).",
+   "operador": "JOSE DANYLLO FE",
+   "pagamentos": [
+    {
+     "forma": "Cartão Crédito",
+     "valor": 130.38
+    },
+    {
+     "forma": "Cartão Alimentação",
+     "valor": 700
+    }
+   ],
+   "pdv": "011",
+   "serie": "11",
+   "totalItens": 85,
+   "tributos": {
+    "estadual": 104.57,
+    "federal": 89.3,
+    "municipal": 0
+   },
+   "valorPago": 830.38,
+   "valorTotal": 835.69
+  }
+ ],
+ "produtos": [
+  {
+   "id": "5601252231164",
+   "codigo": "5601252231164",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "AZ GALLO E V 500ML",
+   "ean": "5601252231164",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "004",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 26.9,
+     "precoUnit": 26.9,
+     "qtd": 1,
+     "total": 26.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7500435214650",
+   "codigo": "7500435214650",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "ABS ALWAYS C/A C/26",
+   "ean": "7500435214650",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "043",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 29.39,
+     "precoUnit": 29.39,
+     "qtd": 1,
+     "total": 29.39
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7622210533289",
+   "codigo": "7622210533289",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "SNACK CLUB SOCIAL 115G",
+   "ean": "7622210533289",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "039",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 10.7,
+     "precoUnit": 10.7,
+     "qtd": 1,
+     "total": 10.7
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7622210534835",
+   "codigo": "7622210534835",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CHOC LACTA 145G AO L",
+   "ean": "7622210534835",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "013",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 17.4,
+     "precoUnit": 17.4,
+     "qtd": 1,
+     "total": 17.4
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7622210534866",
+   "codigo": "7622210534866",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "CHOC LACTA 145G UN",
+   "ean": "7622210534866",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "033",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 15.99,
+     "precoUnit": 15.99,
+     "qtd": 2,
+     "total": 31.98
+    },
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "014",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 17.4,
+     "precoUnit": 17.4,
+     "qtd": 1,
+     "total": 17.4
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7622210567567",
+   "codigo": "7622210567567",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "CHOC RECH LACTA OREO 9",
+   "ean": "7622210567567",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "034",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 14.85,
+     "precoUnit": 14.85,
+     "qtd": 1,
+     "total": 14.85
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7622210592637",
+   "codigo": "7622210592637",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BISC TRAK 126G CH/MO",
+   "ean": "7622210592637",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "041",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 3.39,
+     "precoUnit": 3.39,
+     "qtd": 2,
+     "total": 6.78
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7622210592668",
+   "codigo": "7622210592668",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BISC TRAK 126G CH/BR",
+   "ean": "7622210592668",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "040",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 3.39,
+     "precoUnit": 3.39,
+     "qtd": 2,
+     "total": 6.78
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7622210956118",
+   "codigo": "7622210956118",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "HALLS 84G MOR",
+   "ean": "7622210956118",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "027",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 6.85,
+     "precoUnit": 6.85,
+     "qtd": 1,
+     "total": 6.85
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891000372586",
+   "codigo": "7891000372586",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC WAFER BONO 110G U",
+   "ean": "7891000372586",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "014",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 4.7,
+     "precoUnit": 4.7,
+     "qtd": 1,
+     "total": 4.7
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891000373262",
+   "codigo": "7891000373262",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC WAFER BONO 110G U",
+   "ean": "7891000373262",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "015",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 4.7,
+     "precoUnit": 4.7,
+     "qtd": 1,
+     "total": 4.7
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891000397961",
+   "codigo": "7891000397961",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BISC TOST 150G ESPEC",
+   "ean": "7891000397961",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "032",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 5.09,
+     "precoUnit": 5.09,
+     "qtd": 1,
+     "total": 5.09
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891000469545",
+   "codigo": "7891000469545",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "PASSATEMPO 90G ALPIN",
+   "ean": "7891000469545",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "042",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 3.09,
+     "precoUnit": 3.09,
+     "qtd": 1,
+     "total": 3.09
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891010560812",
+   "codigo": "7891010560812",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "COT JOHNSON C/150",
+   "ean": "7891010560812",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "048",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 13.89,
+     "precoUnit": 13.89,
+     "qtd": 1,
+     "total": 13.89
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891022100372",
+   "codigo": "7891022100372",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "DET LIMPOL 500ML CRI",
+   "ean": "7891022100372",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "017",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 2.59,
+     "precoUnit": 2.59,
+     "qtd": 3,
+     "total": 7.77
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891025116592",
+   "codigo": "7891025116592",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "LTE FERM ACTIVIA ZER 1",
+   "ean": "7891025116592",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "040",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 20.45,
+     "precoUnit": 20.45,
+     "qtd": 1,
+     "total": 20.45
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891040133017",
+   "codigo": "7891040133017",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "ESPONJA SCOTCH BRIT L3",
+   "ean": "7891040133017",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "046",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 8.79,
+     "precoUnit": 8.79,
+     "qtd": 1,
+     "total": 8.79
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891048067000",
+   "codigo": "7891048067000",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BROWNIE 480G",
+   "ean": "7891048067000",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "024",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 14.25,
+     "precoUnit": 14.25,
+     "qtd": 1,
+     "total": 14.25
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891048070215",
+   "codigo": "7891048070215",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BOLO CANECA 70G CHOC",
+   "ean": "7891048070215",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "023",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.19,
+     "precoUnit": 4.19,
+     "qtd": 2,
+     "total": 8.38
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891080150449",
+   "codigo": "7891080150449",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "OL CAN SOYA P 900",
+   "ean": "7891080150449",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "010",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 12.35,
+     "precoUnit": 12.35,
+     "qtd": 1,
+     "total": 12.35
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891095154081",
+   "codigo": "7891095154081",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CRAVO KITANO 40G",
+   "ean": "7891095154081",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "021",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 16.99,
+     "precoUnit": 16.99,
+     "qtd": 1,
+     "total": 16.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891095911349",
+   "codigo": "7891095911349",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "M PIP YOK PREMI 400G",
+   "ean": "7891095911349",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "022",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 5.99,
+     "precoUnit": 5.99,
+     "qtd": 1,
+     "total": 5.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891095911486",
+   "codigo": "7891095911486",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "FAROFA MAND TEMP YOKI",
+   "ean": "7891095911486",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "045",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 6.95,
+     "precoUnit": 6.95,
+     "qtd": 2,
+     "total": 13.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891097000935",
+   "codigo": "7891097000935",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "CREME DE RICOTA PRESID",
+   "ean": "7891097000935",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "023",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 8.5,
+     "precoUnit": 8.5,
+     "qtd": 1,
+     "total": 8.5
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891141036170",
+   "codigo": "7891141036170",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SUCO AURO TP 1,5L UV",
+   "ean": "7891141036170",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "035",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 18.59,
+     "precoUnit": 18.59,
+     "qtd": 1,
+     "total": 18.59
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891150060241",
+   "codigo": "7891150060241",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SBT LUX 200ML BUQUE",
+   "ean": "7891150060241",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "050",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 8.09,
+     "precoUnit": 8.09,
+     "qtd": 1,
+     "total": 8.09
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891150064928",
+   "codigo": "7891150064928",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "LAVA ROUPA OMO UN",
+   "ean": "7891150064928",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "041",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 14.6,
+     "precoUnit": 14.6,
+     "qtd": 1,
+     "total": 14.6
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891150090835",
+   "codigo": "7891150090835",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "MAIONESE HELLMANNS UN",
+   "ean": "7891150090835",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "038",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 9.9,
+     "precoUnit": 9.9,
+     "qtd": 1,
+     "total": 9.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891164027681",
+   "codigo": "7891164027681",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "LEITE EM PO INSTAN 400",
+   "ean": "7891164027681",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "019",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 14.99,
+     "precoUnit": 14.99,
+     "qtd": 1,
+     "total": 14.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891164110853",
+   "codigo": "7891164110853",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "ISCAS FGO AURO 600G",
+   "ean": "7891164110853",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "052",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 21.59,
+     "precoUnit": 21.59,
+     "qtd": 1,
+     "total": 21.59
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891203010209",
+   "codigo": "7891203010209",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "PAO PANCO MILH CA",
+   "ean": "7891203010209",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "002",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 11.35,
+     "precoUnit": 11.35,
+     "qtd": 1,
+     "total": 11.35
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891203020260",
+   "codigo": "7891203020260",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "PAO DE MEL PANCO 200G",
+   "ean": "7891203020260",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "025",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 12.9,
+     "precoUnit": 12.9,
+     "qtd": 1,
+     "total": 12.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891203050663",
+   "codigo": "7891203050663",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC ROSQUINHA MILHO50",
+   "ean": "7891203050663",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "007",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 11.5,
+     "precoUnit": 11.5,
+     "qtd": 1,
+     "total": 11.5
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891261849001",
+   "codigo": "7891261849001",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SAND IPAN A PT039/40",
+   "ean": "7891261849001",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "060",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 14.9,
+     "precoUnit": 14.9,
+     "qtd": 1,
+     "total": 14.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891515572518",
+   "codigo": "7891515572518",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "FGO EMP SADIA 400G UN",
+   "ean": "7891515572518",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "011",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 20.19,
+     "precoUnit": 20.19,
+     "qtd": 1,
+     "total": 20.19
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891962068046",
+   "codigo": "7891962068046",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BIS BAUD 335G LEI/GO",
+   "ean": "7891962068046",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "026",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 9.1,
+     "precoUnit": 9.1,
+     "qtd": 1,
+     "total": 9.1
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7891962076348",
+   "codigo": "7891962076348",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC AMANT BAUDUCCO 35",
+   "ean": "7891962076348",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "032",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 6.09,
+     "precoUnit": 6.09,
+     "qtd": 1,
+     "total": 6.09
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7892840812850",
+   "codigo": "7892840812850",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BEB H2OH 500ML LIMON",
+   "ean": "7892840812850",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "047",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 3.99,
+     "precoUnit": 3.99,
+     "qtd": 3,
+     "total": 11.97
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7892840819187",
+   "codigo": "7892840819187",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "ACHOC PO TODDY SCH 1,8",
+   "ean": "7892840819187",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "010",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 38.75,
+     "precoUnit": 38.75,
+     "qtd": 1,
+     "total": 38.75
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7893000516083",
+   "codigo": "7893000516083",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SASSAMI SADIA 1kg",
+   "ean": "7893000516083",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "058",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 18.79,
+     "precoUnit": 18.79,
+     "qtd": 1,
+     "total": 18.79
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7894900520507",
+   "codigo": "7894900520507",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "AG CRYS CG 500 LIMAO",
+   "ean": "7894900520507",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "044",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 3.19,
+     "precoUnit": 3.19,
+     "qtd": 2,
+     "total": 6.38
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7894904000739",
+   "codigo": "7894904000739",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "POLPET SEARA GOUR 320G",
+   "ean": "7894904000739",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "017",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 29.69,
+     "precoUnit": 29.69,
+     "qtd": 1,
+     "total": 29.69
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7894904209026",
+   "codigo": "7894904209026",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "COXASA SWIFT TEMP 1KG",
+   "ean": "7894904209026",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "005",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 21.35,
+     "precoUnit": 21.35,
+     "qtd": 1,
+     "total": 21.35
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7894904285570",
+   "codigo": "7894904285570",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "FILEZINHO EMPANADO 400",
+   "ean": "7894904285570",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "008",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 17.25,
+     "precoUnit": 17.25,
+     "qtd": 1,
+     "total": 17.25
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896000554369",
+   "codigo": "7896000554369",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "MAGUARY 500ML CAJU",
+   "ean": "7896000554369",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "046",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 5.05,
+     "precoUnit": 5.05,
+     "qtd": 1,
+     "total": 5.05
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896002303460",
+   "codigo": "7896002303460",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "PAO FORMA PULLMAN 500G",
+   "ean": "7896002303460",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "018",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 13.49,
+     "precoUnit": 13.49,
+     "qtd": 1,
+     "total": 13.49
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896005213995",
+   "codigo": "7896005213995",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "MIST BOLO DONA BENTA 4",
+   "ean": "7896005213995",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "048",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 12.09,
+     "precoUnit": 12.09,
+     "qtd": 1,
+     "total": 12.09
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896005802373",
+   "codigo": "7896005802373",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "CAPPUCCINO 3 CORACOES",
+   "ean": "7896005802373",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0.5,
+     "item": "024",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 2.19,
+     "precoUnit": 2.29,
+     "qtd": 5,
+     "total": 10.95
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896007800124",
+   "codigo": "7896007800124",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "MOL SAKURA 500ML LI",
+   "ean": "7896007800124",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "011",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 13.19,
+     "precoUnit": 13.19,
+     "qtd": 1,
+     "total": 13.19
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896025800052",
+   "codigo": "7896025800052",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "MOL PIM CEPERA VER 150",
+   "ean": "7896025800052",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "021",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 4.4,
+     "precoUnit": 4.4,
+     "qtd": 1,
+     "total": 4.4
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896036001684",
+   "codigo": "7896036001684",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "MOLHO TOMATE POMAROLA",
+   "ean": "7896036001684",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "028",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 2.59,
+     "precoUnit": 2.59,
+     "qtd": 2,
+     "total": 5.18
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896036090981",
+   "codigo": "7896036090981",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "M TOM POMODORO 300G",
+   "ean": "7896036090981",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0.78,
+     "item": "018",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 1.39,
+     "precoUnit": 1.65,
+     "qtd": 3,
+     "total": 4.17
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896038308057",
+   "codigo": "7896038308057",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "ARR URB INT PARB 1kg",
+   "ean": "7896038308057",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "028",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.89,
+     "precoUnit": 4.89,
+     "qtd": 1,
+     "total": 4.89
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896045103003",
+   "codigo": "7896045103003",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CAFE 3 COR SACHE 40G",
+   "ean": "7896045103003",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "007",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 5.99,
+     "precoUnit": 5.99,
+     "qtd": 3,
+     "total": 17.97
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896062699978",
+   "codigo": "7896062699978",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "ARROZ SOLITO 1kg",
+   "ean": "7896062699978",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "020",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.39,
+     "precoUnit": 4.39,
+     "qtd": 2,
+     "total": 8.78
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896064100168",
+   "codigo": "7896064100168",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "FEIJ C BELO BCO 500G",
+   "ean": "7896064100168",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "033",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 9.29,
+     "precoUnit": 9.29,
+     "qtd": 1,
+     "total": 9.29
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896068000600",
+   "codigo": "7896068000600",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CHEESE DAN 300G TRAD",
+   "ean": "7896068000600",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "053",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 21.59,
+     "precoUnit": 21.59,
+     "qtd": 1,
+     "total": 21.59
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896072644418",
+   "codigo": "7896072644418",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "COB CH PINGO 1,01kg",
+   "ean": "7896072644418",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "030",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 36.9,
+     "precoUnit": 36.9,
+     "qtd": 1,
+     "total": 36.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896085075971",
+   "codigo": "7896085075971",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "TOR ADRIA 284G INT",
+   "ean": "7896085075971",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "001",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 8.65,
+     "precoUnit": 8.65,
+     "qtd": 1,
+     "total": 8.65
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896085086632",
+   "codigo": "7896085086632",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC RECH TORTINHAS 14",
+   "ean": "7896085086632",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "037",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 4.39,
+     "precoUnit": 4.39,
+     "qtd": 2,
+     "total": 8.78
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896085087165",
+   "codigo": "7896085087165",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC RECH TORTI CROS 8",
+   "ean": "7896085087165",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "030",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 4.25,
+     "precoUnit": 4.25,
+     "qtd": 1,
+     "total": 4.25
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896085087172",
+   "codigo": "7896085087172",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC RECH TORTI CROS 8",
+   "ean": "7896085087172",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "031",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 4.25,
+     "precoUnit": 4.25,
+     "qtd": 1,
+     "total": 4.25
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896089088656",
+   "codigo": "7896089088656",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "CAFE SOLUVEL PILAO 40G",
+   "ean": "7896089088656",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "049",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 6.9,
+     "precoUnit": 6.9,
+     "qtd": 2,
+     "total": 13.8
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896089089905",
+   "codigo": "7896089089905",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CAFE LOR SOLUVEL 40G",
+   "ean": "7896089089905",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "015",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 7.99,
+     "precoUnit": 7.99,
+     "qtd": 1,
+     "total": 7.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896094906020",
+   "codigo": "7896094906020",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "ADOCYL 80ML STEVIA",
+   "ean": "7896094906020",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "025",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 7.59,
+     "precoUnit": 7.59,
+     "qtd": 1,
+     "total": 7.59
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896094909978",
+   "codigo": "7896094909978",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CR D SENSO 140G PROT",
+   "ean": "7896094909978",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 3,
+     "item": "049",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 15.9,
+     "precoUnit": 16.9,
+     "qtd": 3,
+     "total": 47.7
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896098900222",
+   "codigo": "7896098900222",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "DET YPE 500ML LIMAO",
+   "ean": "7896098900222",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "045",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 2.19,
+     "precoUnit": 2.19,
+     "qtd": 1,
+     "total": 2.19
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896098903582",
+   "codigo": "7896098903582",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "AMAC CONC YPE LOCCITAN",
+   "ean": "7896098903582",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "047",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 22.85,
+     "precoUnit": 22.85,
+     "qtd": 1,
+     "total": 22.85
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896102500608",
+   "codigo": "7896102500608",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "MILHO VERDE QUERO 170G",
+   "ean": "7896102500608",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "022",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 3.95,
+     "precoUnit": 3.95,
+     "qtd": 2,
+     "total": 7.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896110004648",
+   "codigo": "7896110004648",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "PH PERS V L16P15 30M",
+   "ean": "7896110004648",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "061",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 27.79,
+     "precoUnit": 27.79,
+     "qtd": 1,
+     "total": 27.79
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896114100902",
+   "codigo": "7896114100902",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "QJO MUSS IPAN FAT 400G",
+   "ean": "7896114100902",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "016",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 23.9,
+     "precoUnit": 23.9,
+     "qtd": 1,
+     "total": 23.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896114101084",
+   "codigo": "7896114101084",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "PARM RAL IPANEN 500G",
+   "ean": "7896114101084",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "039",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 45.9,
+     "precoUnit": 45.9,
+     "qtd": 1,
+     "total": 45.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896213005771",
+   "codigo": "7896213005771",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BISC CRIST VITARELA 41",
+   "ean": "7896213005771",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "013",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 9.45,
+     "precoUnit": 9.45,
+     "qtd": 1,
+     "total": 9.45
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896266100362",
+   "codigo": "7896266100362",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "VH NAC TTO TRADICAO 1L",
+   "ean": "7896266100362",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "044",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 26.9,
+     "precoUnit": 26.9,
+     "qtd": 1,
+     "total": 26.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896300500868",
+   "codigo": "7896300500868",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "P ALUM PRATSY 30X4MT",
+   "ean": "7896300500868",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "006",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 3.09,
+     "precoUnit": 3.09,
+     "qtd": 1,
+     "total": 3.09
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896336000226",
+   "codigo": "7896336000226",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "D AMEN GIBI FF 1,5kg",
+   "ean": "7896336000226",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "031",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 32.5,
+     "precoUnit": 32.5,
+     "qtd": 1,
+     "total": 32.5
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896401100042",
+   "codigo": "7896401100042",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "FEIJ MAXIMO CAR 1kg",
+   "ean": "7896401100042",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "034",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 7.95,
+     "precoUnit": 7.95,
+     "qtd": 1,
+     "total": 7.95
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896512909732",
+   "codigo": "7896512909732",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SBT PHEBO 90G AMAZON",
+   "ean": "7896512909732",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "057",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.99,
+     "precoUnit": 4.99,
+     "qtd": 1,
+     "total": 4.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896512909763",
+   "codigo": "7896512909763",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SBT PHEBO 90G FRESC",
+   "ean": "7896512909763",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "056",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.99,
+     "precoUnit": 4.99,
+     "qtd": 1,
+     "total": 4.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896512909787",
+   "codigo": "7896512909787",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SBT PHEBO 90G ROSAS",
+   "ean": "7896512909787",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "055",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.99,
+     "precoUnit": 4.99,
+     "qtd": 1,
+     "total": 4.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896512909794",
+   "codigo": "7896512909794",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "SBT PHEBO 90G T LAV",
+   "ean": "7896512909794",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "054",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.99,
+     "precoUnit": 4.99,
+     "qtd": 1,
+     "total": 4.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896676099911",
+   "codigo": "7896676099911",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "OVO BRANCO GRANDE C/20",
+   "ean": "7896676099911",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "020",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 11.9,
+     "precoUnit": 11.9,
+     "qtd": 1,
+     "total": 11.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7896855901417",
+   "codigo": "7896855901417",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "V PERGOLA TTO 1LT SV",
+   "ean": "7896855901417",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "009",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 29.9,
+     "precoUnit": 29.9,
+     "qtd": 1,
+     "total": 29.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7897557550255",
+   "codigo": "7897557550255",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "TEMP BAIANO T.RICA 50G",
+   "ean": "7897557550255",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "036",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 7.39,
+     "precoUnit": 7.39,
+     "qtd": 1,
+     "total": 7.39
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7897557599957",
+   "codigo": "7897557599957",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "CHIMICHURRI T.RICCA 40",
+   "ean": "7897557599957",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "035",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 10.1,
+     "precoUnit": 10.1,
+     "qtd": 1,
+     "total": 10.1
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7897928200833",
+   "codigo": "7897928200833",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "DOCE AMENDOIM CASEIRA4",
+   "ean": "7897928200833",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "051",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 14.5,
+     "precoUnit": 14.5,
+     "qtd": 1,
+     "total": 14.5
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7897972003954",
+   "codigo": "7897972003954",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "PAO NOBRE INT 500G",
+   "ean": "7897972003954",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "003",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 8.99,
+     "precoUnit": 8.99,
+     "qtd": 2,
+     "total": 17.98
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7897990112607",
+   "codigo": "7897990112607",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "MAC MATTEO 500G SPAG",
+   "ean": "7897990112607",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "005",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 7.75,
+     "precoUnit": 7.75,
+     "qtd": 2,
+     "total": 15.5
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898039680286",
+   "codigo": "7898039680286",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "MANT SCALA PT 200G UN",
+   "ean": "7898039680286",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "050",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 12.05,
+     "precoUnit": 12.05,
+     "qtd": 1,
+     "total": 12.05
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898080640611",
+   "codigo": "7898080640611",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "LEITE L V ITALAC TAMP",
+   "ean": "7898080640611",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "026",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 5.6,
+     "precoUnit": 5.6,
+     "qtd": 5,
+     "total": 28
+    },
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "008",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 5.59,
+     "precoUnit": 5.59,
+     "qtd": 4,
+     "total": 22.36
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898206275093",
+   "codigo": "7898206275093",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BIS MINASBOM 220G CH",
+   "ean": "7898206275093",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "059",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 11.9,
+     "precoUnit": 11.9,
+     "qtd": 1,
+     "total": 11.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898215151784",
+   "codigo": "7898215151784",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CR LEITE PIRAC 200G",
+   "ean": "7898215151784",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0.9,
+     "item": "036",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 2.69,
+     "precoUnit": 2.99,
+     "qtd": 3,
+     "total": 8.07
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898215152439",
+   "codigo": "7898215152439",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "L PIRAC 400G INT INS",
+   "ean": "7898215152439",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "038",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 15.79,
+     "precoUnit": 15.79,
+     "qtd": 1,
+     "total": 15.79
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898406780052",
+   "codigo": "7898406780052",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "SUCO SERIGY MARAC 500M",
+   "ean": "7898406780052",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "052",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 8.39,
+     "precoUnit": 8.39,
+     "qtd": 1,
+     "total": 8.39
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898416780042",
+   "codigo": "7898416780042",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BISC POLV CASSI 200G",
+   "ean": "7898416780042",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "012",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 9.19,
+     "precoUnit": 9.19,
+     "qtd": 1,
+     "total": 9.19
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898542028605",
+   "codigo": "7898542028605",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "BATATA PSWIFT CONG 400",
+   "ean": "7898542028605",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "006",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 11.89,
+     "precoUnit": 11.89,
+     "qtd": 1,
+     "total": 11.89
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898902299058",
+   "codigo": "7898902299058",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "MILHO STELLA LA 170G",
+   "ean": "7898902299058",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0.63,
+     "item": "037",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 2.99,
+     "precoUnit": 3.2,
+     "qtd": 3,
+     "total": 8.97
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898930672434",
+   "codigo": "7898930672434",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "PL ALUMINIO WYDA 30X4,0",
+   "ean": "7898930672434",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "029",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 4.19,
+     "precoUnit": 4.19,
+     "qtd": 1,
+     "total": 4.19
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7898951850118",
+   "codigo": "7898951850118",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "MAC BARIL PARAF 500G",
+   "ean": "7898951850118",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "019",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 4.19,
+     "precoUnit": 4.19,
+     "qtd": 1,
+     "total": 4.19
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7899567222924",
+   "codigo": "7899567222924",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "FILE MIGNON SUI SWIFT",
+   "ean": "7899567222924",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "009",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 70.39,
+     "precoUnit": 70.39,
+     "qtd": 1,
+     "total": 70.39
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7899567222931",
+   "codigo": "7899567222931",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "C. MOIDA SWIFT BOL 500",
+   "ean": "7899567222931",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "012",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 35.25,
+     "precoUnit": 35.25,
+     "qtd": 1,
+     "total": 35.25
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7899985000333",
+   "codigo": "7899985000333",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "CREPE PAD 150G CHOC",
+   "ean": "7899985000333",
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "016",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 12.99,
+     "precoUnit": 12.99,
+     "qtd": 1,
+     "total": 12.99
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7908620701174",
+   "codigo": "7908620701174",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "KIWI IMPORTADO BAND 60",
+   "ean": "7908620701174",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "001",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 15.9,
+     "precoUnit": 15.9,
+     "qtd": 1,
+     "total": 15.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "7908620701181",
+   "codigo": "7908620701181",
+   "codigoInterno": false,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "MEXERICA CLEMENVILLE 7",
+   "ean": "7908620701181",
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "027",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 15.9,
+     "precoUnit": 15.9,
+     "qtd": 1,
+     "total": 15.9
+    }
+   ],
+   "unidade": "UN"
+  },
+  {
+   "id": "assai-577",
+   "codigo": "577",
+   "codigoInterno": true,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "BANANA PRATA kg",
+   "ean": null,
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "051",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 3.95,
+     "precoUnit": 3.95,
+     "qtd": 0.99,
+     "total": 3.91
+    }
+   ],
+   "unidade": "KG"
+  },
+  {
+   "id": "assai-7590",
+   "codigo": "7590",
+   "codigoInterno": true,
+   "criadoEm": "2026-11-06T19:58:00-03:00",
+   "descricao": "QJ MUSS CENAGGIO FT",
+   "ean": null,
+   "registros": [
+    {
+     "compraId": "nfce-51750-s11",
+     "data": "2026-10-14T19:45:55-03:00",
+     "desconto": 0,
+     "item": "029",
+     "lojaId": "assai-barueri-0337",
+     "precoEfetivo": 49.49,
+     "precoUnit": 49.5,
+     "qtd": 0.332,
+     "total": 16.43
+    }
+   ],
+   "unidade": "KG"
+  },
+  {
+   "id": "giga-107094",
+   "codigo": "107094",
+   "codigoInterno": true,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "COXINHA AIPIM C/CARN A",
+   "ean": null,
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "043",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 63.84,
+     "precoUnit": 63.9,
+     "qtd": 0.138,
+     "total": 8.81
+    }
+   ],
+   "unidade": "KG"
+  },
+  {
+   "id": "giga-107095",
+   "codigo": "107095",
+   "codigoInterno": true,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "COXINHA FGO ASS",
+   "ean": null,
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "042",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 63.86,
+     "precoUnit": 63.9,
+     "qtd": 0.132,
+     "total": 8.43
+    }
+   ],
+   "unidade": "KG"
+  },
+  {
+   "id": "giga-4090",
+   "codigo": "4090",
+   "codigoInterno": true,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "TOMATE ITALIANO KG",
+   "ean": null,
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "002",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 15.89,
+     "precoUnit": 15.9,
+     "qtd": 0.465,
+     "total": 7.39
+    }
+   ],
+   "unidade": "KG"
+  },
+  {
+   "id": "giga-4597",
+   "codigo": "4597",
+   "codigoInterno": true,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "CEBOLA NACIONAL KG",
+   "ean": null,
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "003",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 6.98,
+     "precoUnit": 6.99,
+     "qtd": 0.59,
+     "total": 4.12
+    }
+   ],
+   "unidade": "KG"
+  },
+  {
+   "id": "giga-4725",
+   "codigo": "4725",
+   "codigoInterno": true,
+   "criadoEm": "2026-11-04T19:15:02-03:00",
+   "descricao": "ABOBRINHA ITALIANA KG",
+   "ean": null,
+   "registros": [
+    {
+     "compraId": "nfce-27931-s31",
+     "data": "2026-11-04T19:15:02-03:00",
+     "desconto": 0,
+     "item": "004",
+     "lojaId": "giga-alphaville",
+     "precoEfetivo": 3.99,
+     "precoUnit": 3.99,
+     "qtd": 0.73,
+     "total": 2.91
+    }
+   ],
+   "unidade": "KG"
+  }
+ ]
+}
